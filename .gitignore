@@ -57,3 +57,10 @@
 /Shout-Interface/build/
 /Shout/dist/
 /Shout-GUI-Client/build/
+/Quiz1Account-Client/nbproject/private/
+/Quiz1Account-Interface/nbproject/private/
+/Quiz1Account/nbproject/private/
+/Quiz1Account/Quiz1Account-war/nbproject/private/
+/Quiz1Account/Quiz1Account-ejb/nbproject/private/
+/SimpleJPA/nbproject/private/
+/SimpleJPA/build/
